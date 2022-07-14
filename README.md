@@ -5,6 +5,9 @@ mobile HTML5 Game Development.
 
 It is released under both the GPL and MIT license to do with what you will.
 
+Free Version:
+https://olla-world.github.io
+
 Playable Version: 
 http://cykod.github.com/AlienInvasion/
 
